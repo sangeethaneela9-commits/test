@@ -1,0 +1,3 @@
+a = "tea"
+b = "coffee"
+list = [a,b]
